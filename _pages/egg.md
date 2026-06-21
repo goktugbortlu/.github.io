@@ -15,9 +15,9 @@ In 2026, the EGG will be held in the wonderful city of Brno (Czechia).
 
 The school will take place from July 27th to August 7th.
 
-Find the timetable [here](#) and the list of classes [here](#)
+Find the timetable [here](#) and the list of classes [here](#).
 
-For more information visit [eggschool.org](http://eggschool.org)
+For more information visit [eggschool.org](http://eggschool.org).
 
 Follow the socials: 
 
