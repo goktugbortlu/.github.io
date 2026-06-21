@@ -1,1 +1,48 @@
+---
+layout: archive
+title: ""
+permalink: /egg/
+author_profile: true
+---
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="width: 45%; min-width: 250px; margin-bottom: 20px;" markdown="1">
+
+**EGG 2026 in Brno!**
+
+In 2026, the EGG will be held in the wonderful city of Brno (Czechia).
+
+The school will take place from July 27th to August 7th.
+
+Find the timetable [here](#) and the list of classes [here](#).
+
+For more information visit [eggschool.org](http://eggschool.org)
+
+Follow the socials: 
+
+</div>
+
+<div style="width: 45%; min-width: 250px;" markdown="1">
+
+### Phonology
+* Mohamed Lahrouchi (Université Paris 8)
+* Björn Köhnlein (Ohio State)
+* Marjorie Leduc (Rutgers)
+* Tobias Scheer (Nice)
+
+### Syntax
+* Maura Cotfas (Bucharest)
+* Rita Manzini (Florence)
+* Idan Landau (Tel Aviv)
+* Kerstin Hoge (Oxford)
+* Ouras Aljani (Nantes)
+
+### Semantics
+* Elizabeth Tobyn (Brno)
+* Alexis Wellwood (University of Southern California)
+* Mojmír Dočekal (Brno)
+
+</div>
+
+</div>
