@@ -10,7 +10,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Göktuğ Börtlü, PhD"
+title                    : "Göktuğ Börtlü"
 title_separator          : "-"
 name                     : &name "Göktuğ Börtlü"
 description              : &description "Göktuğ Börtlü's academic portfolio"   
@@ -22,7 +22,7 @@ repository               : "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
 author:
   # Biographic information
   avatar           : "profile.png" # You can drop a square photo named profile.png into your images folder later
-  name             : "Göktuğ Börtlü, PhD"
+  name             : "Göktuğ Börtlü"
   pronouns         : 
   bio              : "Research Assistant in Linguistics specializing in theoretical phonology."
   location         : "Turkey"
