@@ -13,7 +13,6 @@ redirect_from:
 
 I am a linguist. My research focuses on theoretical phonology, specifically how phonological knowledge is instantiated in the human mind. I am also very much interested in the workings of the phonology-phonetics interface.
 
-### And this is Gece [gedʒe]
-blending into the dark. Her name means "night" in Turkish, and she carries that name very well, I guess.
+And this is Gece [gedʒe], blending into the dark. Her name means "night" in Turkish, and she carries that name very well, I guess.
 
 <div style="clear: both;"></div>
