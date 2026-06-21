@@ -24,23 +24,23 @@ author:
   avatar           : "IMG_2771.jpeg"
   name             : "Göktuğ Börtlü"
   pronouns         : 
-  bio              : "Research Assistant in Linguistics specializing in theoretical phonology."
-  location         : "Turkey"
-  employer         : "Selçuk University"
+  bio              : "gøctʰuː bøɾtly"
+  location         : ""
+  employer         : ""
   uri              : 
-  email            : "goktug.bortlu@selcuk.edu.tr" 
+  email            : "" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL 
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=SXgqvloAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Goektug-Boertlue"
   scopus           : # URL
   zotero           : # URL
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username 
   codepen          : # Username
   dribbble         : # Username
-  github           : "YOUR_GITHUB_USERNAME" # Replace with your actual GitHub username
+  github           : # Replace with your actual GitHub username
   kaggle           : # Username  
   stackoverflow    : # User number    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
