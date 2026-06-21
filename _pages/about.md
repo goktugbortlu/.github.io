@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/IMG_2469.jpeg" alt="Gece the cat" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
+<!-- Gece's Photo Container -->
+<div style="width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 30px;">
+  
+  <img src="/images/IMG_2771.jpeg" alt="Photo of Gece" style="max-width: 90%; width: 400px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
+  <p style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px;">Gece Börtlü, in her preferred thinking spot.</p>
+</div>
 
 ## HI, I'M GÖKTUĞ [gøctʰuː]
 
