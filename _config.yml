@@ -21,7 +21,7 @@ repository               : "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile.png" # You can drop a square photo named profile.png into your images folder later
+  avatar           : "/images/IMG_2771.jpeg"
   name             : "Göktuğ Börtlü"
   pronouns         : 
   bio              : "Research Assistant in Linguistics specializing in theoretical phonology."
