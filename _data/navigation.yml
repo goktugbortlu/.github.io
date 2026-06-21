@@ -1,9 +1,8 @@
-# main links
 main:
-  - title: "CV"
-    url: /cv/
   - title: "Research"
     url: /publications/
+  - title: "CV"
+    url: /cv/
   - title: "EGG"
     url: /egg/
   - title: "Translation"
