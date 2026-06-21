@@ -8,7 +8,7 @@ author_profile: false
 ## Journal articles
 
 * **Börtlü, G.**, & Scheer, T. (submitted). Soft g in Turkish. (SSCI)
-* **Börtlü, G.**, & Uzun, İ. P. (2025). Türkçede ünlü uzunluğunun Katı ZÜ kuramı çerçevesinde çözümlemesi [An analysis of vowel length in Turkish within the framework of Strict CV theory]. *Türk Dili ve Edebiyatı Dergisi/Journal of Turkish Language and Literature*, *65*(2), 324-336. (ESCI) [[link](#)]
+* **Börtlü, G.**, & Uzun, İ. P. (2025). Türkçede ünlü uzunluğunun Katı ZÜ kuramı çerçevesinde çözümlemesi [An analysis of vowel length in Turkish within the framework of Strict CV theory]. *Türk Dili ve Edebiyatı Dergisi/Journal of Turkish Language and Literature*, *65*(2), 324-336. (ESCI) [[link](https://dergipark.org.tr/tr/download/article-file/4412072)]
 * **Börtlü, G.** (2024). Hangi sesbilim? [Which phonology?]. *Mersin Üniversitesi Dil ve Edebiyat Dergisi*, *20*(2), 91-104. (MLA) [[link](#)]
 * **Börtlü, G.** (2024). Biçimsözdizim-sesbilim arakesitinde dolaysız gönderim yaklaşımı [The direct reference approach in the morphosyntax-phonology interface]. *Selçuk Üniversitesi Edebiyat Fakültesi Dergisi (SEFAD)*, *51*, 19-28. (ESCI) [[link](#)]
 * **Börtlü, G.** (2022). Sesbilim-sesbilgisi arakesitinden bir örnek: Rotikler [An example from the phonology-phonetics interface: Rhotics]. *Dilbilim Araştırmaları Dergisi*, *33*(2), 71-85. (Scopus) [[link](#)]
