@@ -35,4 +35,4 @@ author_profile: false
 * **Börtlü, G.**, & Scheer, T. (2024, February 14-16). *Soft g in Turkish: Two types and x-slots*. The 21st Old World Conference in Phonology (OCP21), Leipzig, Germany. [[abstract](/files/bortlu-scheer_OCP21.pdf)]
 * **Börtlü, G.**, & Scheer, T. (2023, November 11-12). *Two types of soft g in Turkish*. 2023 Western Conference on Linguistics (WECOL), California, USA. [[abstract](/files/bortlu-scheer_wecol2023.pdf)]
 * **Börtlü, G.**, & Doyuran, Z. (2021, August 2-4). *The vowel triangle of Turkish: An alternative to the IPA chart*. 20th International Conference on Turkish Linguistics (ICTL20), Eskişehir, Turkey. [[abstract](/files/bortlu-doyuran_ICTL20.pdf)]
-* **Börtlü, G.** (2019, October 24-26). *Lateral phonemes in Turkish*. III. International Conference on Research in Applied Linguistics, Konya, Turkey. [[abstract](#)]
+* **Börtlü, G.** (2019, October 24-26). *Lateral phonemes in Turkish*. III. International Conference on Research in Applied Linguistics, Konya, Turkey. [[abstract](/files/bortlu-ICRAL2019.pdf)]
