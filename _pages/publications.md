@@ -19,7 +19,7 @@ author_profile: false
 ## Book chapters
 
 * **Börtlü, G.**, & Baturay Meral, S. (in press). Ünlü uyumunda ünsüz etkileri: Tipolojik görünümler ve Türk dillerinden örnekler [Consonant effects in vowel harmony: Typological perspectives and examples from Turkic languages].
-* **Börtlü, G.**, & Sarıçoban, A. (2022). Teaching language online: What it is and how it works. In A. Ekoç Özçelik & Z. Elgün Gündüz (Eds.), *Technology integrated English language teaching* (pp. 1-23). Eğiten Kitap. [[link](#)]
+* **Börtlü, G.**, & Sarıçoban, A. (2022). Teaching language online: What it is and how it works. In A. Ekoç Özçelik & Z. Elgün Gündüz (Eds.), *Technology integrated English language teaching* (pp. 1-23). Eğiten Kitap. [[link](<a href="/files/Börtlü%20%26%20Sarıçoban%20(2022).pdf" target="_blank" style="text-decoration: underline; font-weight: bold;">Börtlü & Sarıçoban (2022)</a>)]
 
 ## Talks
 
