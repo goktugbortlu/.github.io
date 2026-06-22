@@ -1,9 +1,11 @@
 main:
-  - title: "Research"
+  - title: "about"
+    url: /biography/
+  - title: "research"
     url: /publications/
-  - title: "CV"
+  - title: "cv"
     url: /cv/
-  - title: "EGG"
+  - title: "egg"
     url: /egg/
-  - title: "Translation"
+  - title: "translation"
     url: /translation/
