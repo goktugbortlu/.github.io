@@ -17,6 +17,7 @@ author_profile: true
     <p>I was awarded the Fulbright FLTA scholarship in 2021 and worked at Syracuse University for about a year.</p>
     <p>I am one of the organizers of the EGG Summer School.</p>
     <p>I also do dubbing, subtitling, or book translation if I feel like it.</p>
+    <p>And this is Gece [ɟedʒe] blending into the dark. Her name means "night" in Turkish, and she carries that name ​very well, ​I guess.</p>
   </div>
 
 </div>
