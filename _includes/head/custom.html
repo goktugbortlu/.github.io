@@ -13,5 +13,15 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
+<script>
+  /* Finds any link ending in .pdf and forces it to open in a new tab */
+  document.addEventListener('DOMContentLoaded', function() {
+    var pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
+    pdfLinks.forEach(function(link) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+</script>
 
 <!-- end custom head snippets -->
