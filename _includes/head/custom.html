@@ -14,24 +14,12 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 <style>
-  /* 1. Forces the entire menu bar to stretch 100% of the screen width */
-  .greedy-nav {
-    display: flex !important;
-    width: 100% !important;
-    justify-content: space-between !important;
-  }
-
-  /* 2. Locks your name to the left side */
-  .greedy-nav .site-title {
-    margin-right: auto !important;
-    flex-shrink: 0 !important;
-  }
-
-  /* 3. Locks the tabs (About, CV, etc.) to the right side */
+  /* 1. Tells the box holding the tabs to fill all the empty space in the middle */
+  /* 2. Aligns the tabs to the far right inside that box */
   .greedy-nav .visible-links {
-    margin-left: auto !important;
-    display: flex !important;
+    flex-grow: 1 !important;
     justify-content: flex-end !important;
+    padding-right: 20px !important; /* Adds a little breathing room on the right edge */
   }
 </style>
 <!-- end custom head snippets -->
