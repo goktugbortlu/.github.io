@@ -1,3 +1,10 @@
+---
+layout: single
+title: ""
+permalink: /translation/
+author_profile: false
+---
+
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-top: 20px;">
   
   <!-- Row 1 -->
